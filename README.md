@@ -1,5 +1,4 @@
 # How to Perform CRUD Operations in the Angular Pivot Table
-
 A quick start project that shows how to add, edit, and delete records in the Angular Pivot Table. This project also includes a code snippet to display the table data as a pivot chart, customize the chart, and edit the data through the chart.
  
 Refer to the following documentation to learn about the Angular Pivot Table component: 
